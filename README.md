@@ -22,7 +22,7 @@ We are the team behind SO:CT -  4 members of Cohort 6 from the Bright Network Te
 
 <details>
 <summary>Carla S Moreno Lima</summary>
-  - GitHub: (https://github.com/Carla022)
+  - GitHub: (https://github.com/csmorenolima)
 </details>
 
 <details>
